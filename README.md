@@ -18,8 +18,8 @@ A clean, modern digital business card built with pure HTML, CSS, and JavaScript 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot-english.png" alt="English Version" width="380">
-  <img src="screenshots/Screenshot-persian.png" alt="Persian Version" width="380">
+  <img src="screenshots/Screenshot-english.png" alt="English Version" width="380" height="400">
+  <img src="screenshots/Screenshot-persian.png" alt="Persian Version" width="380" height="400">
 </p>
 
 ## 🔗 Live Demo
