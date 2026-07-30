@@ -25,7 +25,7 @@ A clean, modern digital business card built with pure HTML, CSS, and JavaScript 
 ## 🔗 Live Demo
 
 Check out the live version here:
-👉 [View Online](https://your-username.github.io/your-repo-name/)
+👉 [View Online](https://shareilzare.github.io/my-business-card/)
 
 ## 📁 Project Structure
 
@@ -43,7 +43,7 @@ Check out the live version here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/shareilzare/my-business-card.git
    ```
 2. Open `index.html` (English) or `persian.html` (Persian) in your browser.
 3. Edit your personal info, skills, and social media links in the HTML files.
